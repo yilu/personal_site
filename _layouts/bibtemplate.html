@@ -1,0 +1,26 @@
+---
+---
+<div class="text-justify">{{reference}}</div>
+<button class="buttonBIB"  onclick="toggleBibtex{{entry.key}}()">Bibtex</button>
+
+{% if entry.doi %}
+    <a href="{{ entry.doi | prepend: 'http://doi.org/' }}" target='_blank' ><input class="buttonDOI" type="button" value="DOI" /></a>
+{% endif %}
+
+{% if entry.preprint %}
+    <a href="{{ entry.preprint }}" target='_blank' ><input class="buttonPRE" type="button" value="Preprint" /></a>
+{% endif %}
+
+<div id="a{{entry.key}}" style="display: none;">
+<pre>{{entry.bibtex}}</pre>
+</div>
+<script>
+function toggleBibtex{{entry.key}}(parameter) {
+    var x= document.getElementById('a{{entry.key}}');
+    if (x.style.display === 'none') {
+        x.style.display = 'block';
+    } else {
+        x.style.display = 'none';
+    }
+}
+</script>

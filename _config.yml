@@ -1,0 +1,32 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: false
+
+# Setup
+title:               Yi Lu
+tagline:             ''
+description:         ''
+url:                 http://yilu.me
+baseurl:             /
+
+# About/contact
+author:
+  name:              Yi Lu
+
+# Custom vars
+version:             1.0.0
+
+scholar:
+  style: ./publications/aps-mod.csl
+  locale: en
+  sort_by: year
+  order: descending
+  source: ./publications/
+  bibliography_template: bibtemplate
+  bibtex_filters: latex
+  bibliography: my_pubs.bib
+  query: "@*[public!=no]"

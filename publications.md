@@ -5,7 +5,7 @@ title: List of publications
 
 *Also on [Google Scholar](https://scholar.google.de/citations?user=yBtX0C4AAAAJ&hl=en)*
 
-## Priprints
+## Preprints
 {% bibliography --query @*[group=preprint] %}
 
 ## Journal articles

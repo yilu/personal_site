@@ -11,6 +11,10 @@
     <a href="{{ entry.preprint }}" target='_blank' ><input class="buttonPRE" type="button" value="Preprint" /></a>
 {% endif %}
 
+{% if entry.news %}
+    <a href="{{ entry.news }}" target='_blank' ><input class="buttonNEWS" type="button" value="In the News" /></a>
+{% endif %}
+
 <div id="a{{entry.key}}" style="display: none;">
 <pre>{{entry.bibtex}}</pre>
 </div>

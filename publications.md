@@ -10,6 +10,10 @@ title: List of publications
 
 ## Journal articles
 
+### 2021
+
+{% bibliography --query @*[year=2021, group=journal] %}
+
 ### 2020
 
 {% bibliography --query @*[year=2020, group=journal] %}

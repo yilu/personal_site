@@ -29,12 +29,12 @@
       -->
 
 
-      <a class="sidebar-nav-item" href="files/cv.pdf">CV</a>
+      <a class="sidebar-nav-item{% if page.url == "/files/cv.pdf/" %} active{% endif %}" href="files/cv.pdf">CV</a>
       <a class="sidebar-nav-item{% if page.url == "/publications/" %} active{% endif %}" href="/publications/">Publications</a>
       <a class="sidebar-nav-item" href="http://quanty.org" target="_blank">Quanty</a>
       <!-- <a class="sidebar-nav-item{% if page.url == "/links/" %} active{% endif %}" href="/links/">Links</a> -->
 
-      <span class="sidebar-nav-item">Generated with Jekyll Hyde</span>
+      <span class="sidebar-nav-item">Generated with <a href="https://github.com/poole/hyde">Jekyll Hyde</a></span>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>

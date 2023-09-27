@@ -27,9 +27,10 @@ title: Teaching
    0. [Notes on 2022-09-20]({{ site.url }}/teaching/AS2023/GT/notes/00_20230920.pdf)
    1. [Notes on 2022-09-20]({{ site.url }}/teaching/AS2023/GT/notes/01_20230920.pdf)
    2. [Notes on 2022-09-22]({{ site.url }}/teaching/AS2023/GT/notes/02_20230922.pdf)
+   3. [Notes on 2022-09-27]({{ site.url }}/teaching/AS2023/GT/notes/03_20230927.pdf) \| [Recording](https://meeting.tencent.com/v2/cloud-record/share?id=7d62b795-d821-4f72-9fc0-c1c611793986&from=3)
 
 ### 习题：
-  0. 随课程进度更新
+  0. [HW01]({{ site.url }}/teaching/AS2023/GT/hw/03_20230927.pdf) (Due on 2023-10-13)
 
 
 <br />

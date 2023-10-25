@@ -28,9 +28,18 @@ title: Teaching
    1. [Notes on 2022-09-20]({{ site.url }}/teaching/AS2023/GT/notes/01_20230920.pdf)
    2. [Notes on 2022-09-22]({{ site.url }}/teaching/AS2023/GT/notes/02_20230922.pdf)
    3. [Notes on 2022-09-27]({{ site.url }}/teaching/AS2023/GT/notes/03_20230927.pdf) \| [Recording](https://meeting.tencent.com/v2/cloud-record/share?id=7d62b795-d821-4f72-9fc0-c1c611793986&from=3)
+   4. [Notes on 2022-10-08]({{ site.url }}/teaching/AS2023/GT/notes/04_20231008.pdf)
+   5. [Notes on 2022-10-11]({{ site.url }}/teaching/AS2023/GT/notes/05_20231011.pdf)
+   6. [Notes on 2022-10-13]({{ site.url }}/teaching/AS2023/GT/notes/06_20231013.pdf)
+   7. [Notes on 2022-10-18]({{ site.url }}/teaching/AS2023/GT/notes/07_20231018.pdf)
+   7. [Notes on 2022-10-20]({{ site.url }}/teaching/AS2023/GT/notes/08_20231020.pdf)
+   8. [Notes on 2022-10-25]({{ site.url }}/teaching/AS2023/GT/notes/09_20231025.pdf)
 
 ### 习题：
-  0. [HW01]({{ site.url }}/teaching/AS2023/GT/hw/03_20230927.pdf) (Due on 2023-10-13)
+  1. [HW01]({{ site.url }}/teaching/AS2023/GT/hw/hw01.pdf) (Due on 2023-10-13) \| [Sol01]({{ site.url }}/teaching/AS2023/GT/sol/sol01.pdf)
+  2. [HW02]({{ site.url }}/teaching/AS2023/GT/hw/hw02.pdf) (Due on 2023-10-20)
+  2. [HW03]({{ site.url }}/teaching/AS2023/GT/hw/hw03.pdf) (Due on 2023-10-27)
+  2. [HW04]({{ site.url }}/teaching/AS2023/GT/hw/hw04.pdf) (Due on 2023-11-03)
 
 
 <br />

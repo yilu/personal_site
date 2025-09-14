@@ -7,12 +7,14 @@ title: Teaching
 
 ## <span style="color: red">Group Theory and its Applications, Autumn 2024 / 群论及其应用</span>
 
+### <span style="color: red">考试时间：2024-12-31 14:00-16:00(星期二) 鼓楼校区 教 102</span>
+
 ### 课程信息：
 
-#### 上课时间及地点 (3-17 周，9 月 18 日开始)：
+#### 上课时间及地点 (4-18 周，9 月 17 日开始)：
 - 线下教学：
-  - 周三 第 5-6 节，费彝民楼 A-201 
-  - 周五 第 5-6 节，费彝民楼 A-201
+  - 周三 第 5-6 节，费彝民楼 A-310 
+  - 周五 第 5-6 节，费彝民楼 A-310
 
 #### 课程参考资料：
   - 课程讲义主要参考 Greg Moore, [*Abstract Group Theory*](https://www.physics.rutgers.edu/~gmoore/618Spring2023/GroupTheory-Spring2023.html)
@@ -24,10 +26,10 @@ title: Teaching
     - 陈金全，《群表示论的新途径》，上海科学技术出版社，1984（南京大学）
 
 ### 课程讲义及资料：
-  0. 每次课后更新
+  0. 随堂更新
 
-### 习题：
-  1. 随课程更新
+### 习题 (共十次)：
+  1. 随堂更新
 
 <br />
 <br />
@@ -36,6 +38,7 @@ title: Teaching
 <br />
 
 ## Previous lectures
+ - Autumn 2024 - Group Theory and its Applications
  - Autumn 2023 - Group Theory and its Applications
  - Autumn 2022 - Group Theory and its Applications
  - Summer 2022 - Introduction to Group Theory in Physics

@@ -20,13 +20,13 @@ author:
 # Custom vars
 version:             1.0.0
 
-scholar:
-  style: ./publications/aps-mod.csl
-  locale: en
-  sort_by: year
-  order: descending
-  source: ./publications/
-  bibliography_template: bibtemplate
-  bibtex_filters: latex
-  bibliography: my_pubs.bib
-  query: "@*[public!=no]"
+#scholar:
+#  style: ./publications/aps-mod.csl
+#  locale: en
+#  sort_by: year
+#  order: descending
+#  source: ./publications/
+#  bibliography_template: bibtemplate
+#  bibtex_filters: latex
+#  bibliography: selected.bib
+#  query: "@*[public!=no]"

@@ -5,9 +5,7 @@ title: Teaching
 
 <br />
 
-## <span style="color: red">Group Theory and its Applications, Autumn 2024 / 群论及其应用</span>
-
-### <span style="color: red">考试时间：2024-12-31 14:00-16:00(星期二) 鼓楼校区 教 102</span>
+## <span style="color: red">Group Theory and its Applications, Autumn 2025 / 群论及其应用</span>
 
 ### 课程信息：
 
@@ -26,10 +24,15 @@ title: Teaching
     - 陈金全，《群表示论的新途径》，上海科学技术出版社，1984（南京大学）
 
 ### 课程讲义及资料：
-  0. 随堂更新
+  0. [课程安排]({{ site.url }}/teaching/AS2025/GT/notes/00_20250917.pdf)
+  1. [Notes on 2025-09-17]({{ site.url }}/teaching/AS2025/GT/notes/01_20250917.pdf)
+  2. [Notes on 2025-09-19]({{ site.url }}/teaching/AS2025/GT/notes/02_20250919.pdf)
+  3. [Notes on 2025-09-24]({{ site.url }}/teaching/AS2025/GT/notes/03_20250924.pdf)
+  4. [Notes on 2025-09-26]({{ site.url }}/teaching/AS2025/GT/notes/04_20250926.pdf)
 
 ### 习题 (共十次)：
-  1. 随堂更新
+  1. [HW01]({{ site.url }}/teaching/AS2025/GT/hw/hw01.pdf) (Due on 2025-10-11)
+  2. [HW02]({{ site.url }}/teaching/AS2025/GT/hw/hw02.pdf) (Due on 2025-10-17)
 
 <br />
 <br />

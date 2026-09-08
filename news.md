@@ -1,22 +1,9 @@
 ---
 layout: page
+title: News archive
 ---
 
-I am a professor at the [physics department](https://physics.nju.edu.cn) of [Nanjing University](https://www.nju.edu.cn/en/main.psp). I obtained my Ph.D. in the group of [Prof. Bernhard Keimer](https://www.fkf.mpg.de/keimer) at the Max Planck Institute for Solid State Research (Germany), and was subsequently a postdoctoral researcher in the group of [Prof. Maurits W. Haverkort](http://www.thphys.uni-heidelberg.de/~haverkort/) at Heidelberg University (Germany).
-
-<br style="clear: both;" />
-
-## Research directions
-
-- **Correlated oxide materials.** We study the electronic structure and excitations of correlated transition metal oxides, where the interplay of charge, spin, and orbital degrees of freedom gives rise to rich many-body phenomena. These include the archetypal examples of high-temperature superconductors such as the nickelate and cuprate families.
-
-- **Numerical methods.** We work on many-body numerical methods for correlated electron systems. Our approaches include traditional methods — exact diagonalization, DMRG, and tree tensor networks — as well as modern artificial intelligence techniques such as neural quantum states built on transformer and vision transformer architectures. A central goal is to compute dynamical quantities such as spectral functions and Green's functions with controlled accuracy.
-
-- **Spectroscopy theory.** Our theoretical work is closely tied to experiment. A particular focus is resonant inelastic X-ray scattering (RIXS), for which we study microscopic theories of spectral features and cross-sections, and work directly with experimental groups to interpret measurements in correlated materials.
-
-<br>
-
-## News
+## 2026
 
 <details>
 <summary><strong>Aug 2026</strong> — "Highly Anisotropic Charge Dynamics and Spectral Weight Redistribution in the Trilayer Nickelate La<sub>4</sub>Ni<sub>3</sub>O<sub>10</sub>" published in <a href="https://journals.aps.org/prl/abstract/10.1103/5j5t-sfnc"><em>Phys. Rev. Lett.</em> 137, 076005 (2026)</a></summary>
@@ -58,11 +45,34 @@ I am a professor at the [physics department](https://physics.nju.edu.cn) of [Nan
 <p>A comparative RIXS study of the trilayer nickelate La<sub>4</sub>Ni<sub>3</sub>O<sub>10</sub> and its bilayer counterpart reveals weaker electronic correlations and a reduced interlayer magnetic exchange in the trilayer compound, which together account for its substantially lower superconducting transition temperature.</p>
 </details>
 
-[Older news →](/news/)
+## 2025
 
-<br>
+<details>
+<summary><strong>Dec 2025</strong> — "Vision transformer neural quantum states for impurity models" published in <a href="https://journals.aps.org/prb/abstract/10.1103/8n2h-p7w5"><em>Phys. Rev. B</em> 112, 235155 (2025)</a></summary>
+<p>We demonstrate that vision transformer architectures provide efficient and accurate variational ansätze for quantum impurity models, outperforming matrix product states in parameter efficiency. The approach extends naturally to the computation of dynamical quantities such as X-ray absorption spectra.</p>
+</details>
 
-## Open positions
+<details>
+<summary><strong>Dec 2025</strong> — "Quantum criticality and emergent order in the spin-1 bilinear-biquadratic Kitaev chain" published in <a href="https://journals.aps.org/prb/abstract/10.1103/9w4w-7phz"><em>Phys. Rev. B</em> 112, 214434 (2025)</a></summary>
+<p>Using DMRG, we map out the ground-state phase diagram of the spin-1 bilinear-biquadratic Kitaev chain and uncover two Kitaev-induced phases: a Kitaev nematic phase arising via an Ising quantum critical point, and a Kitaev dimer phase that spontaneously breaks screw symmetry.</p>
+</details>
 
-I am currently looking for a motivated **postdoctoral researcher** to join our group. Candidates with a background in condensed matter theory, computational physics, or related fields are encouraged to apply. Experience with tensor network methods, quantum chemistry, or machine learning for physics is a plus, but not required. If you are interested, please send me a CV and a brief description of your research interests by email. We also welcome undergraduate students joining us for internships. I can be reached at <span id="contact-email"></span>.
-<script>(function(){var u='yilu',d='nju.edu.cn',e=u+'@'+d;var el=document.getElementById('contact-email');if(el){el.innerHTML='<a href="mailto:'+e+'">'+e+'</a>';}})();</script> Please note that I am unable to guarantee a reply to general inquiries not specific to our research.
+<details>
+<summary><strong>Dec 2025</strong> — "Dual instability of superconductivity from oxygen defects in La<sub>3</sub>Ni<sub>2</sub>O<sub>7+δ</sub>" — new preprint on <a href="https://arxiv.org/abs/2512.00301">arXiv:2512.00301</a></summary>
+<p>We study how oxygen defects drive a dual instability of superconductivity in La<sub>3</sub>Ni<sub>2</sub>O<sub>7+δ</sub>, providing insight into the sensitivity of nickelate superconductivity to structural disorder.</p>
+</details>
+
+<details>
+<summary><strong>Nov 2025</strong> — "Neural network impurity solver for real-frequency dynamical mean-field theory" — new preprint on <a href="https://arxiv.org/abs/2511.14505">arXiv:2511.14505</a></summary>
+<p>We introduce a neural network-based solver for the quantum impurity problem that operates directly at real frequencies, eliminating the need for analytic continuation within the DMFT framework.</p>
+</details>
+
+<details>
+<summary><strong>Sep 2025</strong> — "Nonequilibrium dynamics in a quantum spin chain with pump-probe resonant inelastic x-ray scattering" published in <a href="https://journals.aps.org/prb/abstract/10.1103/b3rx-9cvv"><em>Phys. Rev. B</em> 112, 094314 (2025)</a></summary>
+<p>We study the transient RIXS response of the transverse field Ising chain driven by a pump pulse. The low-energy spectra exhibit oscillatory features that correspond one-to-one with dynamical quantum phase transitions, offering an experimentally accessible route to their detection.</p>
+</details>
+
+<details>
+<summary><strong>Aug 2025</strong> — "Lithium intercalated FeSe as a high-temperature superconducting ferromagnet" published in <a href="https://www.nature.com/articles/s41467-025-62624-x"><em>Nat. Commun.</em> 16, 7305 (2025)</a></summary>
+<p>In collaboration with experimental groups, we report that lithium intercalation in FeSe gives rise to coexisting ferromagnetism and high-temperature superconductivity — a rare example of two typically competing orders.</p>
+</details>

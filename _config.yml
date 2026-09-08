@@ -8,11 +8,10 @@ relative_permalinks: false
 
 # Setup
 title:               Yi Lu
-tagline:             ''
-description:         ''
-url:                 http://yilu.me
+tagline:             'Computational Physics'
+description:         'Professor of Physics, Nanjing University'
+url:                 https://yilu.me
 baseurl:             /
-destination:         ../yilu.github.io
 
 # About/contact
 author:
@@ -20,8 +19,6 @@ author:
 
 # Custom vars
 version:             1.0.0
-exclude:
-  - teaching/archive
 
 #scholar:
 #  style: ./publications/aps-mod.csl

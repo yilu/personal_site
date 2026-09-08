@@ -32,7 +32,7 @@ title: Topical list of selected publications
     2. Z. Liu et al., "Electronic correlations and partial gap in the bilayer nickelate La3Ni2O7", [*Nat. Commun.* **15**, 7570 (2024)](https://www.nature.com/articles/s41467-024-52001-5)
     3. X. Chen, P. Jiang, J. Li, Z. Zhong\*, Y. Lu\*, "Charge and spin instabilities in superconducting La3Ni2O7", [*arXiv*: 2307.07154 (2023)](https://arxiv.org/abs/2307.07154)
     4. X. Chen et al., "Electronic and magnetic excitations in La3Ni2O7", [*arXiv*: 2401.12657 (2024)](https://arxiv.org/abs/2401.12657)
-2. **Spin and charge ordered perovsikte nickelates *R*NiO<sub>3</sub>:**
+2. **Spin and charge ordered perovskite nickelates *R*NiO<sub>3</sub>:**
     1. Y. Lu et al., "Site-Selective Probe of Magnetic Excitations in Rare-Earth Nickelates Using Resonant Inelastic X-ray Scattering", [*Phys. Rev. X* **8**, 031014 (2018)](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031014)
     2. Y. Lu et al., "Quantitative determination of bond order and lattice distortions in nickel oxide heterostructures by resonant x-ray scattering", [*Phys. Rev. B* **93**, 165121 (2016)](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.93.165121)
 3. **Superconducting cuprates:**

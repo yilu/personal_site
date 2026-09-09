@@ -37,9 +37,9 @@ title: Group Theory and its Applications
   6. Cosets, Lagrange, and conjugacy <span style="color: gray">（待更新）</span>
   7. Normal subgroups, quotients, and extensions <span style="color: gray">（待更新）</span>
 
-  **第二部分　群表示论 (Representation theory)** <span style="color: gray">（章节安排待定，随课程进度更新）</span>
+  **第二部分　群表示论 (Representation theory)** <span style="color: gray">（待更新）</span>
 
-  **第三部分　应用 (Applications)** <span style="color: gray">（章节安排待定，随课程进度更新）</span>
+  **第三部分　应用 (Applications)** <span style="color: gray">（待更新）</span>
 
 ### 课程进度：
 <span style="color: gray">每次课的内容记录于此。</span>

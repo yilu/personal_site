@@ -23,8 +23,28 @@ title: Group Theory and its Applications
     - 马中骐，《物理学中的群论》，科学出版社，2006（常用中文教材）
     - 陈金全，《群表示论的新途径》，上海科学技术出版社，1984（南京大学）
 
-### 课程讲义及资料：
-  - <span style="color: gray">随课程进度更新。往期课程讲义见下方“往期课程”，可供提前预习参考。</span>
+### 课程讲义：
+<span style="color: gray">讲义按章节编排，随课程进度更新；各章内容与讲课顺序不完全一一对应，实际进度见下方“课程进度”。</span>
+
+  - [封面、目录与参考书]({{ site.url }}/teaching/AS2026/GT/notes/GT-front.pdf)
+
+  **第一部分　群 (Groups)**
+  1. [Introduction]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch01.pdf)
+  2. [Groups: basic definitions and examples]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch02.pdf)
+  3. [Homomorphism and isomorphism]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch03.pdf)
+  4. Group actions <span style="color: gray">（待更新）</span>
+  5. The symmetric group <span style="color: gray">（待更新）</span>
+  6. Cosets, Lagrange, and conjugacy <span style="color: gray">（待更新）</span>
+  7. Normal subgroups, quotients, and extensions <span style="color: gray">（待更新）</span>
+
+  **第二部分　群表示论 (Representation theory)** <span style="color: gray">（章节安排待定，随课程进度更新）</span>
+
+  **第三部分　应用 (Applications)** <span style="color: gray">（章节安排待定，随课程进度更新）</span>
+
+### 课程进度：
+<span style="color: gray">每次课的内容记录于此。</span>
+
+  - <span style="color: gray">课程开始后更新。</span>
 
 ### 习题 (共十次)：
   - <span style="color: gray">随课程进度更新。</span>

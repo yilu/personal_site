@@ -31,7 +31,7 @@ title: Group Theory and its Applications
   **第一部分　群 (Groups)**
   1. [Introduction]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch01.pdf)
   2. [Groups: basic definitions and examples]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch02.pdf)
-  3. [Homomorphism and isomorphism]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch03.pdf)
+  3. Homomorphism and isomorphism <span style="color: gray">（待更新）</span>
   4. Group actions <span style="color: gray">（待更新）</span>
   5. The symmetric group <span style="color: gray">（待更新）</span>
   6. Cosets, Lagrange, and conjugacy <span style="color: gray">（待更新）</span>

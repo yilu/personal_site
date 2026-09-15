@@ -7,9 +7,6 @@ title: Group Theory and its Applications
 
 ## <span style="color: red">Group Theory and its Applications, Autumn 2026 / 群论及其应用</span>
 
-### <span style="color: red">上课通知（9 月 15 日）：</span>
-<span style="color: red">因本科生上课通知延迟，9 月 9 日（周三）第一次课仅研究生班上课，9 月 11 日（周五）停课。本科生班第一次课为 9 月 16 日（周三），内容与 9 月 9 日相同。自 9 月 18 日（周五）起，两班合班上课。</span>
-
 ### 课程信息：
 
 #### 上课时间及地点 (3-18 周)：
@@ -45,7 +42,7 @@ title: Group Theory and its Applications
   **第三部分　应用 (Applications)** <span style="color: gray">（待更新）</span>
 
 ### 课程进度：
-<span style="color: gray">全学期课次如下，内容随进度填入。讲义按章节编排，与每次课的范围不完全对应。</span>
+<span style="color: gray">全学期课次如下，内容随进度填入。讲义按章节编排，与每次课的范围不完全对应。因本科生上课通知延迟，开学前两周两班进度不同，自 9 月 18 日起合班上课。</span>
 
 | 日期 | 内容 |
 |:--|:--|

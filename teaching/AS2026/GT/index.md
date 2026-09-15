@@ -7,8 +7,8 @@ title: Group Theory and its Applications
 
 ## <span style="color: red">Group Theory and its Applications, Autumn 2026 / 群论及其应用</span>
 
-### <span style="color: red">选课与进度通知（9 月 15 日）：</span>
-<span style="color: red">因本科生选课通知延迟，9 月 9 日（周三）第一次课仅研究生班上课，9 月 11 日（周五）停课。本科生班第一次课为 9 月 16 日（周三），内容与 9 月 9 日相同。自 9 月 18 日（周五）起，两班合班上课。</span>
+### <span style="color: red">上课通知（9 月 15 日）：</span>
+<span style="color: red">因本科生上课通知延迟，9 月 9 日（周三）第一次课仅研究生班上课，9 月 11 日（周五）停课。本科生班第一次课为 9 月 16 日（周三），内容与 9 月 9 日相同。自 9 月 18 日（周五）起，两班合班上课。</span>
 
 ### 课程信息：
 
@@ -45,12 +45,43 @@ title: Group Theory and its Applications
   **第三部分　应用 (Applications)** <span style="color: gray">（待更新）</span>
 
 ### 课程进度：
-<span style="color: gray">每次课的内容记录于此。讲义按章节编排，与每次课的范围不完全对应。</span>
+<span style="color: gray">全学期课次如下，内容随进度填入。讲义按章节编排，与每次课的范围不完全对应。</span>
 
-  - **9 月 9 日（周三）**　§1.1–§2.5　<span style="color: red">仅研究生班</span>
-  - **9 月 11 日（周五）**　停课　<span style="color: gray">（为两班同步进度）</span>
-  - **9 月 16 日（周三）**　§1.1–§2.5　<span style="color: red">面向本科生班</span>　<span style="color: gray">（内容与 9 月 9 日相同）</span>
-  - **9 月 18 日（周五）**　起两班合班上课
+| 日期 | 内容 |
+|:--|:--|
+| 9 月 9 日（周三） | §1.1–§2.5　<span style="color: red">仅研究生班</span> |
+| 9 月 11 日（周五） | <span style="color: gray">停课（为两班同步进度）</span> |
+| 9 月 16 日（周三） | §1.1–§2.5　<span style="color: red">面向本科生班</span><span style="color: gray">（内容同 9 月 9 日）</span> |
+| 9 月 18 日（周五） | <span style="color: gray">两班合班上课</span> |
+| 9 月 23 日（周三） |  |
+| 9 月 25 日（周五） | <span style="color: gray">停课（中秋节）</span> |
+| 9 月 30 日（周三） |  |
+| 10 月 2 日（周五） | <span style="color: gray">停课（国庆节）</span> |
+| 10 月 7 日（周三） | <span style="color: gray">停课（国庆节）</span> |
+| 10 月 9 日（周五） |  |
+| 10 月 10 日（周六） | <span style="color: gray">调休，补 10 月 7 日</span> |
+| 10 月 14 日（周三） |  |
+| 10 月 16 日（周五） |  |
+| 10 月 21 日（周三） |  |
+| 10 月 23 日（周五） |  |
+| 10 月 28 日（周三） |  |
+| 10 月 30 日（周五） |  |
+| 11 月 4 日（周三） |  |
+| 11 月 6 日（周五） |  |
+| 11 月 11 日（周三） |  |
+| 11 月 13 日（周五） |  |
+| 11 月 18 日（周三） |  |
+| 11 月 20 日（周五） |  |
+| 11 月 25 日（周三） |  |
+| 11 月 27 日（周五） |  |
+| 12 月 2 日（周三） |  |
+| 12 月 4 日（周五） |  |
+| 12 月 9 日（周三） |  |
+| 12 月 11 日（周五） |  |
+| 12 月 16 日（周三） |  |
+| 12 月 18 日（周五） |  |
+| 12 月 23 日（周三） |  |
+| 12 月 25 日（周五） |  |
 
 ### 习题 (共十次)：
   - <span style="color: gray">随课程进度更新。</span>

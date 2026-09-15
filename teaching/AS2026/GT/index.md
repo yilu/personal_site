@@ -8,11 +8,13 @@ title: Group Theory and its Applications
 ## <span style="color: red">Group Theory and its Applications, Autumn 2026 / 群论及其应用</span>
 
 ### 课程信息：
+  - [课程安排（第一次课幻灯片）]({{ site.url }}/teaching/AS2026/GT/notes/GT-lecture00.pdf)
 
 #### 上课时间及地点 (3-18 周)：
 - 线下教学：
-  - 周三 第 5-6 节，逸夫馆 1-104
-  - 周五 第 5-6 节，逸夫馆 1-104
+  - 周三 第 5-6 节，逸夫馆 2-619
+  - 周五 第 5-6 节，逸夫馆 2-619
+  - <span style="color: red">教室已由逸夫馆 1-104 改为逸夫馆 2-619。</span>
 
 #### 课程参考资料：
   - 课程讲义主要参考 Greg Moore, [*Abstract Group Theory*](https://www.physics.rutgers.edu/~gmoore/618Spring2023/GroupTheory-Spring2023.html)

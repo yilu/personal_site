@@ -19,6 +19,11 @@ I am a professor at the [physics department](https://physics.nju.edu.cn) of [Nan
 ## News
 
 <details>
+<summary><strong>Sep 2026</strong> — "Dual Instability of Superconductivity from Oxygen Defects in La<sub>3</sub>Ni<sub>2</sub>O<sub>7+δ</sub>" published in <a href="https://journals.aps.org/prl/abstract/10.1103/vhgl-lpwv"><em>Phys. Rev. Lett.</em> 137, 126002 (2026)</a></summary>
+<p>We study how oxygen defects drive a dual instability of superconductivity in La<sub>3</sub>Ni<sub>2</sub>O<sub>7+δ</sub>, providing insight into the sensitivity of nickelate superconductivity to structural disorder.</p>
+</details>
+
+<details>
 <summary><strong>Aug 2026</strong> — "Highly Anisotropic Charge Dynamics and Spectral Weight Redistribution in the Trilayer Nickelate La<sub>4</sub>Ni<sub>3</sub>O<sub>10</sub>" published in <a href="https://journals.aps.org/prl/abstract/10.1103/5j5t-sfnc"><em>Phys. Rev. Lett.</em> 137, 076005 (2026)</a></summary>
 <p>In collaboration with experimental groups, we report highly anisotropic charge dynamics in the trilayer nickelate La<sub>4</sub>Ni<sub>3</sub>O<sub>10</sub>, revealing distinct behavior that sheds light on the electronic structure of this recently discovered material family.</p>
 </details>

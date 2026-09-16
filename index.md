@@ -8,11 +8,11 @@ I am a professor at the [physics department](https://physics.nju.edu.cn) of [Nan
 
 ## Research directions
 
-- **Correlated oxide materials.** We study the electronic structure and excitations of correlated transition metal oxides, where the interplay of charge, spin, and orbital degrees of freedom gives rise to rich many-body phenomena. These include the archetypal examples of high-temperature superconductors such as the nickelate and cuprate families.
+- **Quantum many-body physics.** We study strongly correlated quantum systems, where charge, spin and orbital degrees of freedom interact to produce magnetism, charge order and superconductivity. We ask what stabilises these phases, how they compete and what excitations they support.
 
-- **Numerical methods.** We work on many-body numerical methods for correlated electron systems. Our approaches include traditional methods — exact diagonalization, DMRG, and tree tensor networks — as well as modern artificial intelligence techniques such as neural quantum states built on transformer and vision transformer architectures. A central goal is to compute dynamical quantities such as spectral functions and Green's functions with controlled accuracy.
+- **Numerical methods.** We develop and apply numerical methods to calculate phase diagrams and excitation spectra. These include dynamical mean-field theory and its impurity solvers, the density-matrix renormalisation group (DMRG) and tensor networks, and machine-learning approaches such as neural quantum states built on modern deep-learning architectures.
 
-- **Spectroscopy theory.** Our theoretical work is closely tied to experiment. A particular focus is resonant inelastic X-ray scattering (RIXS), for which we study microscopic theories of spectral features and cross-sections, and work directly with experimental groups to interpret measurements in correlated materials.
+- **Spectroscopy theory.** We develop microscopic theories of spectroscopy to understand how quantum phases and their excitations appear in measured spectra. Our work covers a range of techniques, with a particular emphasis on resonant inelastic X-ray scattering (RIXS). We also collaborate with experimental groups to test theoretical predictions against measurements.
 
 <br>
 

@@ -51,9 +51,9 @@ title: Group Theory and its Applications
 | 9 月 11 日（周五） | <span style="color: gray">停课（为两班同步进度）</span> |
 | 9 月 16 日（周三） | §1.1–§2.5　<span style="color: red">面向本科生班</span><span style="color: gray">（内容同 9 月 9 日）</span> |
 | 9 月 18 日（周五） | §2.6–§3.3　<span style="color: gray">两班合班上课</span> |
-| 9 月 23 日（周三） |  |
+| 9 月 23 日（周三） | §3.3–§4.1 |
 | 9 月 25 日（周五） | <span style="color: gray">停课（中秋节）</span> |
-| 9 月 30 日（周三） |  |
+| 9 月 30 日（周三） | §4.1–§4.2 |
 | 10 月 2 日（周五） | <span style="color: gray">停课（国庆节）</span> |
 | 10 月 7 日（周三） | <span style="color: gray">停课（国庆节）</span> |
 | 10 月 9 日（周五） |  |

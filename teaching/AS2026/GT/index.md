@@ -35,7 +35,7 @@ title: Group Theory and its Applications
   2. [Groups: basic definitions and examples]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch02.pdf) <span style="color: gray">（2026-09-22 修订）</span>
   3. [Homomorphism and isomorphism]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch03.pdf) <span style="color: gray">（2026-09-22 修订）</span>
   4. [Group actions]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch04.pdf) <span style="color: gray">（2026-09-22 更新）</span>
-  5. The symmetric group <span style="color: gray">（待更新）</span>
+  5. [The symmetric group]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch05.pdf) <span style="color: gray">（2026-10-04 更新）</span>
   6. [Normal subgroups, quotients, and extensions]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch06.pdf) <span style="color: gray">（2026-10-04 更新）</span>
 
   **第二部分　群表示论 (Representation theory)** <span style="color: gray">（待更新）</span>

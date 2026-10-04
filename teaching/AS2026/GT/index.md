@@ -28,7 +28,7 @@ title: Group Theory and its Applications
 ### 课程讲义：
 <span style="color: gray">讲义按章节编排，随课程进度更新；各章内容与讲课顺序不完全一一对应，实际进度见下方“课程进度”。各章后标注日期：“更新”为首次发布，“修订”为发布后的改动，可据此判断手中的副本是否需要重新下载。</span>
 
-  - [封面、目录与参考书]({{ site.url }}/teaching/AS2026/GT/notes/GT-front.pdf) <span style="color: gray">（2026-09-22 修订）</span>
+  - [封面、目录与参考书]({{ site.url }}/teaching/AS2026/GT/notes/GT-front.pdf) <span style="color: gray">（2026-10-04 修订）</span>
 
   **第一部分　群 (Groups)**
   1. [Introduction]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch01.pdf) <span style="color: gray">（2026-09-22 修订）</span>
@@ -36,7 +36,7 @@ title: Group Theory and its Applications
   3. [Homomorphism and isomorphism]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch03.pdf) <span style="color: gray">（2026-09-22 修订）</span>
   4. [Group actions]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch04.pdf) <span style="color: gray">（2026-09-22 更新）</span>
   5. The symmetric group <span style="color: gray">（待更新）</span>
-  6. Normal subgroups, quotients, and extensions <span style="color: gray">（待更新）</span>
+  6. [Normal subgroups, quotients, and extensions]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch06.pdf) <span style="color: gray">（2026-10-04 更新）</span>
 
   **第二部分　群表示论 (Representation theory)** <span style="color: gray">（待更新）</span>
 

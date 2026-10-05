@@ -26,9 +26,9 @@ title: Group Theory and its Applications
     - 陈金全，《群表示论的新途径》，上海科学技术出版社，1984（南京大学）
 
 ### 课程讲义：
-<span style="color: gray">讲义按章节编排，随课程进度更新；各章内容与讲课顺序不完全一一对应，实际进度见下方“课程进度”。各章后标注日期：“更新”为首次发布，“修订”为发布后的改动，可据此判断手中的副本是否需要重新下载。</span>
+<span style="color: gray">讲义按章节编排，随课程进度更新；各章内容与讲课顺序不完全一一对应，实际进度见下方“课程进度”。后续章节列出本学期拟讲内容，讲义将随课程进度发布。各章后标注日期：“更新”为首次发布，“修订”为发布后的改动，可据此判断手中的副本是否需要重新下载。</span>
 
-  - [封面、目录与参考书]({{ site.url }}/teaching/AS2026/GT/notes/GT-front.pdf) <span style="color: gray">（2026-10-04 修订）</span>
+  - [封面、目录与参考书]({{ site.url }}/teaching/AS2026/GT/notes/GT-front.pdf) <span style="color: gray">（2026-10-05 修订）</span>
 
   **第一部分　群 (Groups)**
   1. [Introduction]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch01.pdf) <span style="color: gray">（2026-09-22 修订）</span>
@@ -38,9 +38,20 @@ title: Group Theory and its Applications
   5. [The symmetric group]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch05.pdf) <span style="color: gray">（2026-10-04 更新）</span>
   6. [Normal subgroups, quotients, and extensions]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch06.pdf) <span style="color: gray">（2026-10-04 更新）</span>
 
-  **第二部分　群表示论 (Representation theory)** <span style="color: gray">（待更新）</span>
+  **第二部分　群表示论 (Representation theory)** <span style="color: gray">（讲义待发布）</span>
+  7. Representations
+  8. Unitarity and reducibility
+  9. Schur's lemmas, orthogonality, and characters
+  10. Rotations and tensor symmetries
+{:start="7"}
 
-  **第三部分　应用 (Applications)** <span style="color: gray">（待更新）</span>
+  **第三部分　应用 (Applications)** <span style="color: gray">（讲义待发布）</span>
+  11. Point groups and local excitations
+  12. Translation symmetry and Bloch states
+  13. Crystal and magnetic symmetries of bands
+  14. Order parameters, density waves, and superconductivity
+  15. Symmetry-protected phases
+{:start="11"}
 
 ### 课程进度：
 <span style="color: gray">全学期课次如下，内容随进度填入。讲义按章节编排，与每次课的范围不完全对应。因本科生上课通知延迟，开学前两周两班进度不同，自 9 月 18 日起合班上课。</span>

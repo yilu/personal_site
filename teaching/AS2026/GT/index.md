@@ -67,7 +67,7 @@ title: Group Theory and its Applications
 | 9 月 30 日（周三） | §4.1–§4.2 |
 | 10 月 2 日（周五） | <span style="color: gray">停课（国庆节）</span> |
 | 10 月 7 日（周三） | <span style="color: gray">停课（国庆节）</span> |
-| 10 月 9 日（周五） |  |
+| 10 月 9 日（周五） | §4.2–§5.2 |
 | 10 月 10 日（周六） | <span style="color: gray">调休，补 10 月 7 日</span> |
 | 10 月 14 日（周三） |  |
 | 10 月 16 日（周五） |  |
@@ -96,6 +96,7 @@ title: Group Theory and its Applications
 <span style="color: gray">随课程进度更新，一般两周一次，周日交。</span>
 
   1. [HW01]({{ site.url }}/teaching/AS2026/GT/hw/hw01.pdf) (Due on 2026-10-10)
+  2. [HW02]({{ site.url }}/teaching/AS2026/GT/hw/hw02.pdf) (Due on 2026-10-25)
 
 <br />
 

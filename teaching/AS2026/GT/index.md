@@ -68,7 +68,7 @@ title: Group Theory and its Applications
 | 10 月 2 日（周五） | <span style="color: gray">停课（国庆节）</span> |
 | 10 月 7 日（周三） | <span style="color: gray">停课（国庆节）</span> |
 | 10 月 9 日（周五） | §4.2–§5.2 |
-| 10 月 10 日（周六） | <span style="color: gray">调休，补 10 月 7 日</span> |
+| 10 月 10 日（周六） | §5.2–§6.2　<span style="color: gray">调休，补 10 月 7 日</span> |
 | 10 月 14 日（周三） |  |
 | 10 月 16 日（周五） |  |
 | 10 月 21 日（周三） |  |

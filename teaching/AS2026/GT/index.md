@@ -93,10 +93,11 @@ title: Group Theory and its Applications
 | 12 月 25 日（周五） |  |
 
 ### 习题 (共十次)：
-<span style="color: gray">随课程进度更新，一般两周一次，周日交。</span>
+<span style="color: gray">随课程进度更新，一般每周发布，约两周后周日交，具体日期见各次习题。</span>
 
   1. [HW01]({{ site.url }}/teaching/AS2026/GT/hw/hw01.pdf) (Due on 2026-10-10)
   2. [HW02]({{ site.url }}/teaching/AS2026/GT/hw/hw02.pdf) (Due on 2026-10-25)
+  3. [HW03]({{ site.url }}/teaching/AS2026/GT/hw/hw03.pdf) (Due on 2026-11-01)
 
 <br />
 

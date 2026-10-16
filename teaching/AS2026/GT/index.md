@@ -36,10 +36,10 @@ title: Group Theory and its Applications
   3. [Homomorphism and isomorphism]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch03.pdf) <span style="color: gray">（2026-09-22 修订）</span>
   4. [Group actions]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch04.pdf) <span style="color: gray">（2026-09-22 更新）</span>
   5. [The symmetric group]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch05.pdf) <span style="color: gray">（2026-10-04 更新）</span>
-  6. [Normal subgroups, quotients, and extensions]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch06.pdf) <span style="color: gray">（2026-10-04 更新）</span>
+  6. [Normal subgroups, quotients, and extensions]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch06.pdf) <span style="color: gray">（2026-10-16 修订）</span>
 
-  **第二部分　群表示论 (Representation theory)** <span style="color: gray">（讲义待发布）</span>
-  7. Representations
+  **第二部分　群表示论 (Representation theory)**
+  7. [Representations]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch07.pdf) <span style="color: gray">（2026-10-16 更新）</span>
   8. Unitarity and reducibility
   9. Schur's lemmas, orthogonality, and characters
   10. Rotations and tensor symmetries
@@ -69,7 +69,7 @@ title: Group Theory and its Applications
 | 10 月 7 日（周三） | <span style="color: gray">停课（国庆节）</span> |
 | 10 月 9 日（周五） | §4.2–§5.2 |
 | 10 月 10 日（周六） | §5.2–§6.2　<span style="color: gray">调休，补 10 月 7 日</span> |
-| 10 月 14 日（周三） |  |
+| 10 月 14 日（周三） | §6.2–§6.4 |
 | 10 月 16 日（周五） |  |
 | 10 月 21 日（周三） |  |
 | 10 月 23 日（周五） |  |

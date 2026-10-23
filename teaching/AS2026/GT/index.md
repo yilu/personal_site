@@ -71,7 +71,7 @@ title: Group Theory and its Applications
 | 10 月 10 日（周六） | §5.2–§6.2　<span style="color: gray">调休，补 10 月 7 日</span> |
 | 10 月 14 日（周三） | §6.2–§6.4 |
 | 10 月 16 日（周五） | §6.4–§6.5 |
-| 10 月 21 日（周三） |  |
+| 10 月 21 日（周三） | §6.5（完成第六章）；第一部分复习 |
 | 10 月 23 日（周五） |  |
 | 10 月 28 日（周三） |  |
 | 10 月 30 日（周五） |  |
@@ -98,6 +98,7 @@ title: Group Theory and its Applications
   1. [HW01]({{ site.url }}/teaching/AS2026/GT/hw/hw01.pdf) (Due on 2026-10-10)
   2. [HW02]({{ site.url }}/teaching/AS2026/GT/hw/hw02.pdf) (Due on 2026-10-25)
   3. [HW03]({{ site.url }}/teaching/AS2026/GT/hw/hw03.pdf) (Due on 2026-11-01)
+  4. [HW04]({{ site.url }}/teaching/AS2026/GT/hw/hw04.pdf) (Due on 2026-11-08)
 
 <br />
 

@@ -39,7 +39,7 @@ title: Group Theory and its Applications
   6. [Normal subgroups, quotients, and extensions]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch06.pdf) <span style="color: gray">（2026-10-16 修订）</span>
 
   **第二部分　群表示论 (Representation theory)**
-  7. [Representations]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch07.pdf) <span style="color: gray">（2026-10-16 更新）</span>
+  7. [Representations]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch07.pdf) <span style="color: gray">（2026-10-30 修订）</span>
   8. Unitarity and reducibility
   9. Schur's lemmas, orthogonality, and characters
   10. Rotations and tensor symmetries
@@ -72,9 +72,9 @@ title: Group Theory and its Applications
 | 10 月 14 日（周三） | §6.2–§6.4 |
 | 10 月 16 日（周五） | §6.4–§6.5 |
 | 10 月 21 日（周三） | §6.5（完成第六章）；第一部分复习 |
-| 10 月 23 日（周五） |  |
-| 10 月 28 日（周三） |  |
-| 10 月 30 日（周五） |  |
+| 10 月 23 日（周五） | §7.1–§7.2；§7.6 |
+| 10 月 28 日（周三） | §7.6.2 |
+| 10 月 30 日（周五） | §7.6.2；§7.3 |
 | 11 月 4 日（周三） |  |
 | 11 月 6 日（周五） |  |
 | 11 月 11 日（周三） |  |
@@ -99,6 +99,7 @@ title: Group Theory and its Applications
   2. [HW02]({{ site.url }}/teaching/AS2026/GT/hw/hw02.pdf) (Due on 2026-10-25)
   3. [HW03]({{ site.url }}/teaching/AS2026/GT/hw/hw03.pdf) (Due on 2026-11-01)
   4. [HW04]({{ site.url }}/teaching/AS2026/GT/hw/hw04.pdf) (Due on 2026-11-08)
+  5. [HW05]({{ site.url }}/teaching/AS2026/GT/hw/hw05.pdf) (Due on 2026-11-15)
 
 <br />
 

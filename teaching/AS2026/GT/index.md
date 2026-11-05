@@ -40,7 +40,7 @@ title: Group Theory and its Applications
 
   **第二部分　群表示论 (Representation theory)**
   7. [Representations]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch07.pdf) <span style="color: gray">（2026-11-05 修订）</span>
-  8. Unitarity and reducibility
+  8. [Unitarity and reducibility]({{ site.url }}/teaching/AS2026/GT/notes/GT-ch08.pdf) <span style="color: gray">（2026-11-05 更新）</span>
   9. Schur's lemmas, orthogonality, and characters
   10. Rotations and tensor symmetries
 {:start="7"}

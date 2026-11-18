@@ -79,7 +79,7 @@ title: Group Theory and its Applications
 | 11 月 6 日（周五） | 完成第七章 |
 | 11 月 11 日（周三） | 邵陆兵主讲，内容涉及 SU(3) |
 | 11 月 13 日（周五） | §8.1（Haar 测度的定义与例子，讲至 GL(n, ℝ)） |
-| 11 月 18 日（周三） |  |
+| 11 月 18 日（周三） | §8.1（完成 Haar 测度部分）；§8.2（正则表示，讲至矩阵元张成的不变子空间） |
 | 11 月 20 日（周五） | <span style="color: gray">停课（校运动会）</span> |
 | 11 月 25 日（周三） |  |
 | 11 月 27 日（周五） |  |
@@ -101,6 +101,7 @@ title: Group Theory and its Applications
   4. [HW04]({{ site.url }}/teaching/AS2026/GT/hw/hw04.pdf) (Due on 2026-11-08)
   5. [HW05]({{ site.url }}/teaching/AS2026/GT/hw/hw05.pdf) (Due on 2026-11-15)
   6. [HW06]({{ site.url }}/teaching/AS2026/GT/hw/hw06.pdf) (Due on 2026-11-22)
+  7. [HW07]({{ site.url }}/teaching/AS2026/GT/hw/hw07.pdf) (Due on 2026-12-06)
 
 <br />
 
